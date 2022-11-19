@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### I'm committed to continuous learning & improvement, to ensure clean, consistent code.
+### I'm committed to continuous improvement, to ensure clean, consistent code.
 
 - 🔭 I’m currently working on a couple projects using React (MERN stack framework).
 - 🌱 I’m currently learning to better my approach to writing code and creating apps (following the DRY principle).
