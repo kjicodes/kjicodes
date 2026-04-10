@@ -1,7 +1,19 @@
-## Hi there 👋 
+# Hi, I'm Kateleen 👋
 
-### I'm committed to continuous improvement, to ensure clean, consistent code.
+Full-stack developer with professional experience in backend API work — 
+troubleshooting production issues, flagging security vulnerabilities, and 
+contributing to backend development in Node.js.
 
-- 🔭 I’m currently working on a couple projects using React (MERN stack framework).
-- 🌱 I’m currently learning to better my approach to writing code and creating apps (following the DRY principle).
-- 💡 I’m interested in full-stack software development.
+My latest personal projects are Python-focused. I work with Flask, Django, and 
+PostgreSQL, and I enjoy building across the full stack.
+
+## 🛠 Tech Stack
+**Languages:** Python, JavaScript
+**Backend:** Flask, Django, Node.js, REST APIs
+**Frontend:** React, HTML, CSS
+**Databases:** PostgreSQL, SQLite, MongoDB
+**Tools:** Git, Postman, JIRA, Docker
+
+## 📌 Currently
+Working toward AWS certification and building full-stack projects 
+with Django and React.
