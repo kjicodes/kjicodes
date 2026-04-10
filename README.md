@@ -8,10 +8,10 @@ My latest personal projects are Python-focused. I work with Flask, Django, and
 PostgreSQL, and I enjoy building across the full stack.
 
 ## 🛠 Tech Stack
-**Languages:** Python, JavaScript
-**Backend:** Flask, Django, Node.js, REST APIs
-**Frontend:** React, HTML, CSS
-**Databases:** PostgreSQL, SQLite, MongoDB
+**Languages:** Python, JavaScript  
+**Backend:** Flask, Django, Node.js, REST APIs  
+**Frontend:** React, HTML, CSS  
+**Databases:** PostgreSQL, SQLite, MongoDB  
 **Tools:** Git, Postman, JIRA, Docker
 
 ## 📌 Currently
