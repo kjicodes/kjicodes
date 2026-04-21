@@ -1,11 +1,8 @@
 # Hi, I'm Kateleen 👋
 
-Full-stack developer with professional experience in backend API work — 
-troubleshooting production issues and 
-contributing to backend development in Node.js.
+Full-stack developer who picks things up fast and enjoys building things end to end. I have professional experience in backend API work, troubleshooting production issues and contributing to backend development in Node.js.
 
-My latest personal projects are Python-focused. I work with Flask, Django, and 
-PostgreSQL.
+Lately I've been deep in Python, building REST APIs with Django, experimenting with new tools, and figuring things out as I go.
 
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript  
