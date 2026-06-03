@@ -8,8 +8,8 @@ Lately I've been deep in Python, building REST APIs with Django and Flask, and i
 **Languages:** Python, JavaScript  
 **Backend:** Flask, Django, Node.js, REST APIs  
 **Frontend:** React, HTML, CSS  
-**Databases:** PostgreSQL, SQLite, MongoDB
-**AI:** Google Gemini API
+**Databases:** PostgreSQL, SQLite, MongoDB  
+**AI:** Google Gemini API  
 **Tools:** Postman, Splunk, Heroku, Bitbucket, Claude Code
 
 ## 📌 Currently
