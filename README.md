@@ -1,6 +1,6 @@
 # Hi, I'm Kateleen 👋
 
-Full-stack developer who picks things up fast and enjoys building things end to end. I have professional experience in backend API work, troubleshooting production issues and contributing to backend development in Node.js.
+Full-stack developer who picks things up fast and enjoys building things end to end. I am experienced in building and maintaining APIs.
 
 Lately I've been deep in Python, building REST APIs with Django and Flask, and integrating AI into my projects. I enjoy figuring out how to make AI feel like a natural part of an app rather than a feature bolted on.
 
