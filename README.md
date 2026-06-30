@@ -6,8 +6,9 @@ Lately I've been deep in Python, building REST APIs with Django and Flask, and i
 
 ## 🛠 Tech Stack
 **Languages:** Python, SQL, JavaScript  
-**Backend:** Flask, Django, Node.js, REST APIs  
+**Backend:** Flask, Django, DRF, Node.js, Express.js, Celery, Redis   
 **Frontend:** React, HTML, CSS  
-**Databases:** PostgreSQL, MongoDB  
-**AI:** Google Gemini API  
-**Tools:** Postman, Splunk, Heroku, Bitbucket, Claude Code
+**Databases:** PostgreSQL, pgvector, MongoDB  
+**AI/LLM:** LangChain, OpenAI API, Google Gemini API, Claude Code   
+**Cloud:** AWS (S3, IAM), Heroku, Render  
+**Tools:** Postman, Splunk, Datadog    
