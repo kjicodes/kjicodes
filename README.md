@@ -10,5 +10,5 @@ Lately I've been deep in Python, building REST APIs with Django and Flask, and i
 **Frontend:** React, HTML, CSS  
 **Databases:** PostgreSQL, pgvector, MongoDB  
 **AI/LLM:** LangChain, OpenAI API, Google Gemini API, Claude Code   
-**Cloud:** AWS (S3, IAM), Heroku, Render  
+**Cloud:** AWS (S3, IAM), Docker, Containerization, Heroku, Render  
 **Tools:** Postman, Splunk, Datadog    
