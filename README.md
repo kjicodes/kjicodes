@@ -2,9 +2,7 @@
 
 🌐 [Visit my portfolio](https://kjicodes.dev)
 
-Full-stack developer who picks things up fast and enjoys building things end to end. I am experienced in building and maintaining APIs.
-
-Lately I've been deep in Python, building REST APIs with Django and Flask, and integrating LLMs into my projects. I enjoy figuring out how to make AI feel like a natural part of an app rather than a feature bolted on.
+Software developer focused on turning ideas into products that work. I like owning features end to end and writing code that's built to last. Lately that's included building with LLMs, bringing AI into applications where it adds real value.
 
 ## 🛠 Tech Stack
 **Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS    
