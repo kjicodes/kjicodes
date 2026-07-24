@@ -1,5 +1,7 @@
 # Hi, I'm Kateleen 👋
 
+🌐 [Visit my portfolio](https://kjicodes.dev)
+
 Full-stack developer who picks things up fast and enjoys building things end to end. I am experienced in building and maintaining APIs.
 
 Lately I've been deep in Python, building REST APIs with Django and Flask, and integrating LLMs into my projects. I enjoy figuring out how to make AI feel like a natural part of an app rather than a feature bolted on.
