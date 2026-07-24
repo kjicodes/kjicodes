@@ -5,10 +5,10 @@ Full-stack developer who picks things up fast and enjoys building things end to 
 Lately I've been deep in Python, building REST APIs with Django and Flask, and integrating LLMs into my projects. I enjoy figuring out how to make AI feel like a natural part of an app rather than a feature bolted on.
 
 ## 🛠 Tech Stack
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS    
 **Backend:** Flask, Django, DRF, Node.js, Express.js, Celery, Redis   
-**Frontend:** React, HTML, CSS  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap    
 **Databases:** PostgreSQL, pgvector, MongoDB  
-**AI/LLM:** LangChain, OpenAI API, Google Gemini API, Claude Code   
-**Cloud:** AWS, Docker, Containerization, Heroku, Render  
+**AI/LLM:** LangChain, OpenAI API, Google Gemini API  
+**Cloud, Infra, & DevOps:** AWS, Docker, Containerization, GitHub Actions, Heroku, Render, Vercel  
 **Tools:** Postman, Splunk, Datadog    
