@@ -10,5 +10,5 @@ Lately I've been deep in Python, building REST APIs with Django and Flask, and i
 **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap    
 **Databases:** PostgreSQL, pgvector, MongoDB  
 **AI/LLM:** LangChain, OpenAI API, Google Gemini API  
-**Cloud, Infra, & DevOps:** AWS, Docker, Containerization, GitHub Actions, Heroku, Render, Vercel  
+**Cloud, Infra, & DevOps:** AWS, Docker, GitHub Actions, Heroku, Render, Vercel  
 **Tools:** Postman, Splunk, Datadog    
